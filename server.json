@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/south-carolina-code",
   "title": "South Carolina Code",
   "description": "South Carolina Code of Laws — state statutes by citation.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/south-carolina-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-south-carolina-code",
