@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sc_code_section",
+    "description": "Get the FULL TEXT of a section of the South Carolina Code of Laws — South Carolina state statutes — by citation. \"S.C. Code 16-3-10\" is murder. Returns the statutory text. Keyless. Use for \"what does South Carolina Code 16-3-10 say\" or to check an SC statute a case relies on.",
+    "inputSchema": {
+      "type": "object",
+      "properties": {
+        "section": {
+          "type": "string",
+          "description": "Section as cited, e.g. \"16-3-10\" (murder) or \"56-5-2930\" (DUI). Title-chapter-section."
+        }
+      },
+      "required": [
+        "section"
+      ]
+    }
+  }
+]
