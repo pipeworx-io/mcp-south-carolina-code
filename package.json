@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-south-carolina-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "South Carolina Code of Laws — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "south-carolina-code",
     "gatewaySlug": "south-carolina-code",
-    "sourceHash": "v1-b3152d0d296e3235757fa17fd0b0a0ae97163a47ceb44ac7be0822196365b672",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-05182cceec5653e3ae309e62280fe4b0e993dad8f0811fcc2aeafc4e888da80c",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
